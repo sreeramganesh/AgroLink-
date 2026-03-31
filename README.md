@@ -62,28 +62,28 @@ lib/
  
 ---
  ## 🚀 Key Functionalities
-👨‍🌾 Farmers can add and manage products
-🛒 Buyers can browse and view available crops
-🔐 Secure authentication using Supabase Auth
-🗄️ Real-time data handling with Supabase database
-🧠 Basic AI features like demand prediction and smart matching
+ -👨‍🌾 Farmers can add and manage products
+ -🛒 Buyers can browse and view available crops
+ -🔐 Secure authentication using Supabase Auth
+ -🗄️ Real-time data handling with Supabase database
+ -🧠 Basic AI features like demand prediction and smart matching
 
 ---
 
 ## 🧠 Future Enhancements 
-🖼️ Image upload and storage using Supabase Storage
-📍 Integration with maps for distance-based matching
-💳 Payment gateway integration (Razorpay/UPI)
-📱 Mobile application for better accessibility
-📊 Advanced analytics and dashboard insights
-🌐 Multi-language support (English/Tamil)
-🤖 Advanced AI models for crop recommendation
+ - 🖼️ Image upload and storage using Supabase Storage
+ - 📍 Integration with maps for distance-based matching
+ - 💳 Payment gateway integration (Razorpay/UPI)
+ - 📱 Mobile application for better accessibility
+ - 📊 Advanced analytics and dashboard insights
+ - 🌐 Multi-language support (English/Tamil)
+ - 🤖 Advanced AI models for crop recommendation
 
 ---
 ## 👨‍💻 Author
 
-Sreeram Ganesh S 
-Rogith Prasannaa V
-Akhilan N  
+ - Sreeram Ganesh S 
+ - Rogith Prasannaa V
+ - Akhilan N  
 
 
